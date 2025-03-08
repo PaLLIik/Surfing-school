@@ -503,9 +503,6 @@ body {
   background-color: #fff;
 }
 
-
-
-
 @media (max-width: 1500px) {
   .about__img {
     flex-basis: 50%;
@@ -514,7 +511,6 @@ body {
     width: 100%;
   }
 }
-
 
 @media (max-width: 1280px) {
   .about__title {
@@ -531,7 +527,6 @@ body {
     margin-bottom: 75px;
   }
 }
-
 
 @media (max-width: 992px) {
   .menu__btn {
@@ -616,13 +611,12 @@ body {
   }
 }
 
-
 @media (max-width: 800px) {
   .activities__list {
     grid-template-columns: repeat(3, 1fr);
   }
   .footer {
-    padding: 75px 0;
+    padding: 50px 0;
   }
   .footer__title {
     font-size: 44px;
@@ -634,7 +628,6 @@ body {
     gap: 15px;
   }
 }
-
 
 @media (max-width: 570px) {
   .footer__top {
@@ -650,8 +643,6 @@ body {
     gap: 30px;
   }
 }
-
-
 
 @media (max-width: 500px) {
   .header {
